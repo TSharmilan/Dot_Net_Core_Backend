@@ -1,0 +1,13 @@
+D:\Angular Assessment\MCComputerSolutionsBackEnd\MCCS.Interfaces\bin\Debug\netcoreapp3.1\MCCS.Interfaces.deps.json
+D:\Angular Assessment\MCComputerSolutionsBackEnd\MCCS.Interfaces\bin\Debug\netcoreapp3.1\MCCS.Interfaces.dll
+D:\Angular Assessment\MCComputerSolutionsBackEnd\MCCS.Interfaces\bin\Debug\netcoreapp3.1\MCCS.Interfaces.pdb
+D:\Angular Assessment\MCComputerSolutionsBackEnd\MCCS.Interfaces\bin\Debug\netcoreapp3.1\MCCS.ViewModel.dll
+D:\Angular Assessment\MCComputerSolutionsBackEnd\MCCS.Interfaces\bin\Debug\netcoreapp3.1\MCCS.ViewModel.pdb
+D:\Angular Assessment\MCComputerSolutionsBackEnd\MCCS.Interfaces\obj\Debug\netcoreapp3.1\MCCS.Interfaces.csproj.AssemblyReference.cache
+D:\Angular Assessment\MCComputerSolutionsBackEnd\MCCS.Interfaces\obj\Debug\netcoreapp3.1\MCCS.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\Angular Assessment\MCComputerSolutionsBackEnd\MCCS.Interfaces\obj\Debug\netcoreapp3.1\MCCS.Interfaces.AssemblyInfoInputs.cache
+D:\Angular Assessment\MCComputerSolutionsBackEnd\MCCS.Interfaces\obj\Debug\netcoreapp3.1\MCCS.Interfaces.AssemblyInfo.cs
+D:\Angular Assessment\MCComputerSolutionsBackEnd\MCCS.Interfaces\obj\Debug\netcoreapp3.1\MCCS.Interfaces.csproj.CoreCompileInputs.cache
+D:\Angular Assessment\MCComputerSolutionsBackEnd\MCCS.Interfaces\obj\Debug\netcoreapp3.1\MCCS.Interfaces.csproj.CopyComplete
+D:\Angular Assessment\MCComputerSolutionsBackEnd\MCCS.Interfaces\obj\Debug\netcoreapp3.1\MCCS.Interfaces.dll
+D:\Angular Assessment\MCComputerSolutionsBackEnd\MCCS.Interfaces\obj\Debug\netcoreapp3.1\MCCS.Interfaces.pdb

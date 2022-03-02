@@ -1,0 +1,10 @@
+D:\Angular Assessment\MCComputerSolutionsBackEnd\MCCS.ViewModel\bin\Debug\netcoreapp3.1\MCCS.ViewModel.deps.json
+D:\Angular Assessment\MCComputerSolutionsBackEnd\MCCS.ViewModel\bin\Debug\netcoreapp3.1\MCCS.ViewModel.dll
+D:\Angular Assessment\MCComputerSolutionsBackEnd\MCCS.ViewModel\bin\Debug\netcoreapp3.1\MCCS.ViewModel.pdb
+D:\Angular Assessment\MCComputerSolutionsBackEnd\MCCS.ViewModel\obj\Debug\netcoreapp3.1\MCCS.ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Angular Assessment\MCComputerSolutionsBackEnd\MCCS.ViewModel\obj\Debug\netcoreapp3.1\MCCS.ViewModel.AssemblyInfoInputs.cache
+D:\Angular Assessment\MCComputerSolutionsBackEnd\MCCS.ViewModel\obj\Debug\netcoreapp3.1\MCCS.ViewModel.AssemblyInfo.cs
+D:\Angular Assessment\MCComputerSolutionsBackEnd\MCCS.ViewModel\obj\Debug\netcoreapp3.1\MCCS.ViewModel.csproj.CoreCompileInputs.cache
+D:\Angular Assessment\MCComputerSolutionsBackEnd\MCCS.ViewModel\obj\Debug\netcoreapp3.1\MCCS.ViewModel.dll
+D:\Angular Assessment\MCComputerSolutionsBackEnd\MCCS.ViewModel\obj\Debug\netcoreapp3.1\MCCS.ViewModel.pdb
+D:\Angular Assessment\MCComputerSolutionsBackEnd\MCCS.ViewModel\obj\Debug\netcoreapp3.1\MCCS.ViewModel.csproj.AssemblyReference.cache

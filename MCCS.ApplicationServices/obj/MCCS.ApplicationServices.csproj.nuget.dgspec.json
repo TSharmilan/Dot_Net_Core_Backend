@@ -1,0 +1,289 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Angular Assessment\\MCComputerSolutionsBackEnd\\MCCS.ApplicationServices\\MCCS.ApplicationServices.csproj": {}
+  },
+  "projects": {
+    "D:\\Angular Assessment\\MCComputerSolutionsBackEnd\\MCCS.ApplicationServices\\MCCS.ApplicationServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Angular Assessment\\MCComputerSolutionsBackEnd\\MCCS.ApplicationServices\\MCCS.ApplicationServices.csproj",
+        "projectName": "MCCS.ApplicationServices",
+        "projectPath": "D:\\Angular Assessment\\MCComputerSolutionsBackEnd\\MCCS.ApplicationServices\\MCCS.ApplicationServices.csproj",
+        "packagesPath": "C:\\Users\\sharmilant\\.nuget\\packages\\",
+        "outputPath": "D:\\Angular Assessment\\MCComputerSolutionsBackEnd\\MCCS.ApplicationServices\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sharmilant\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Angular Assessment\\MCComputerSolutionsBackEnd\\MCCS.DataServices\\MCCS.DataServices.csproj": {
+                "projectPath": "D:\\Angular Assessment\\MCComputerSolutionsBackEnd\\MCCS.DataServices\\MCCS.DataServices.csproj"
+              },
+              "D:\\Angular Assessment\\MCComputerSolutionsBackEnd\\MCCS.Interfaces\\MCCS.Interfaces.csproj": {
+                "projectPath": "D:\\Angular Assessment\\MCComputerSolutionsBackEnd\\MCCS.Interfaces\\MCCS.Interfaces.csproj"
+              },
+              "D:\\Angular Assessment\\MCComputerSolutionsBackEnd\\MCCS.ViewModel\\MCCS.ViewModel.csproj": {
+                "projectPath": "D:\\Angular Assessment\\MCComputerSolutionsBackEnd\\MCCS.ViewModel\\MCCS.ViewModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Angular Assessment\\MCComputerSolutionsBackEnd\\MCCS.DataServices\\MCCS.DataServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Angular Assessment\\MCComputerSolutionsBackEnd\\MCCS.DataServices\\MCCS.DataServices.csproj",
+        "projectName": "MCCS.DataServices",
+        "projectPath": "D:\\Angular Assessment\\MCComputerSolutionsBackEnd\\MCCS.DataServices\\MCCS.DataServices.csproj",
+        "packagesPath": "C:\\Users\\sharmilant\\.nuget\\packages\\",
+        "outputPath": "D:\\Angular Assessment\\MCComputerSolutionsBackEnd\\MCCS.DataServices\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sharmilant\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Angular Assessment\\MCComputerSolutionsBackEnd\\MCCS.Interfaces\\MCCS.Interfaces.csproj": {
+                "projectPath": "D:\\Angular Assessment\\MCComputerSolutionsBackEnd\\MCCS.Interfaces\\MCCS.Interfaces.csproj"
+              },
+              "D:\\Angular Assessment\\MCComputerSolutionsBackEnd\\MCCS.ViewModel\\MCCS.ViewModel.csproj": {
+                "projectPath": "D:\\Angular Assessment\\MCComputerSolutionsBackEnd\\MCCS.ViewModel\\MCCS.ViewModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Angular Assessment\\MCComputerSolutionsBackEnd\\MCCS.Interfaces\\MCCS.Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Angular Assessment\\MCComputerSolutionsBackEnd\\MCCS.Interfaces\\MCCS.Interfaces.csproj",
+        "projectName": "MCCS.Interfaces",
+        "projectPath": "D:\\Angular Assessment\\MCComputerSolutionsBackEnd\\MCCS.Interfaces\\MCCS.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\sharmilant\\.nuget\\packages\\",
+        "outputPath": "D:\\Angular Assessment\\MCComputerSolutionsBackEnd\\MCCS.Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sharmilant\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Angular Assessment\\MCComputerSolutionsBackEnd\\MCCS.ViewModel\\MCCS.ViewModel.csproj": {
+                "projectPath": "D:\\Angular Assessment\\MCComputerSolutionsBackEnd\\MCCS.ViewModel\\MCCS.ViewModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Angular Assessment\\MCComputerSolutionsBackEnd\\MCCS.ViewModel\\MCCS.ViewModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Angular Assessment\\MCComputerSolutionsBackEnd\\MCCS.ViewModel\\MCCS.ViewModel.csproj",
+        "projectName": "MCCS.ViewModel",
+        "projectPath": "D:\\Angular Assessment\\MCComputerSolutionsBackEnd\\MCCS.ViewModel\\MCCS.ViewModel.csproj",
+        "packagesPath": "C:\\Users\\sharmilant\\.nuget\\packages\\",
+        "outputPath": "D:\\Angular Assessment\\MCComputerSolutionsBackEnd\\MCCS.ViewModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sharmilant\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

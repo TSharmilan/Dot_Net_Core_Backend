@@ -1,0 +1,17 @@
+D:\Angular Assessment\MCComputerSolutionsBackEnd\MCCS.ApplicationServices\bin\Debug\netcoreapp3.1\MCCS.ApplicationServices.deps.json
+D:\Angular Assessment\MCComputerSolutionsBackEnd\MCCS.ApplicationServices\bin\Debug\netcoreapp3.1\MCCS.ApplicationServices.dll
+D:\Angular Assessment\MCComputerSolutionsBackEnd\MCCS.ApplicationServices\bin\Debug\netcoreapp3.1\MCCS.ApplicationServices.pdb
+D:\Angular Assessment\MCComputerSolutionsBackEnd\MCCS.ApplicationServices\bin\Debug\netcoreapp3.1\MCCS.DataServices.dll
+D:\Angular Assessment\MCComputerSolutionsBackEnd\MCCS.ApplicationServices\bin\Debug\netcoreapp3.1\MCCS.Interfaces.dll
+D:\Angular Assessment\MCComputerSolutionsBackEnd\MCCS.ApplicationServices\bin\Debug\netcoreapp3.1\MCCS.ViewModel.dll
+D:\Angular Assessment\MCComputerSolutionsBackEnd\MCCS.ApplicationServices\bin\Debug\netcoreapp3.1\MCCS.DataServices.pdb
+D:\Angular Assessment\MCComputerSolutionsBackEnd\MCCS.ApplicationServices\bin\Debug\netcoreapp3.1\MCCS.Interfaces.pdb
+D:\Angular Assessment\MCComputerSolutionsBackEnd\MCCS.ApplicationServices\bin\Debug\netcoreapp3.1\MCCS.ViewModel.pdb
+D:\Angular Assessment\MCComputerSolutionsBackEnd\MCCS.ApplicationServices\obj\Debug\netcoreapp3.1\MCCS.ApplicationServices.csproj.AssemblyReference.cache
+D:\Angular Assessment\MCComputerSolutionsBackEnd\MCCS.ApplicationServices\obj\Debug\netcoreapp3.1\MCCS.ApplicationServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\Angular Assessment\MCComputerSolutionsBackEnd\MCCS.ApplicationServices\obj\Debug\netcoreapp3.1\MCCS.ApplicationServices.AssemblyInfoInputs.cache
+D:\Angular Assessment\MCComputerSolutionsBackEnd\MCCS.ApplicationServices\obj\Debug\netcoreapp3.1\MCCS.ApplicationServices.AssemblyInfo.cs
+D:\Angular Assessment\MCComputerSolutionsBackEnd\MCCS.ApplicationServices\obj\Debug\netcoreapp3.1\MCCS.ApplicationServices.csproj.CoreCompileInputs.cache
+D:\Angular Assessment\MCComputerSolutionsBackEnd\MCCS.ApplicationServices\obj\Debug\netcoreapp3.1\MCCS.ApplicationServices.csproj.CopyComplete
+D:\Angular Assessment\MCComputerSolutionsBackEnd\MCCS.ApplicationServices\obj\Debug\netcoreapp3.1\MCCS.ApplicationServices.dll
+D:\Angular Assessment\MCComputerSolutionsBackEnd\MCCS.ApplicationServices\obj\Debug\netcoreapp3.1\MCCS.ApplicationServices.pdb
